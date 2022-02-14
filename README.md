@@ -16,9 +16,5 @@ I have reference from other submissions on Kaggle.
 The notebook, the detectors file and the train_sample folder should be in the same folder
 
 
-# Trackml library to help dealing with data
+### Trackml library to help dealing with data
 import trackml # pip install --user git+https://github.com/LAL/trackml-library.git
-
-Importing
-from trackml.dataset import load_event
-from trackml.score import score_event
