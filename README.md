@@ -12,7 +12,8 @@ In every event, a large number of particles are released. They move along a path
 They eventually hit a particle detector "surface". In this Notebook I am going to visualize these tracks in the best way possible and will also go through some more details.
 I have reference from other submissions on Kaggle.
 
-> Download the detectors.cvs file and the train_sample zip. Exctract the zip file and it should be all set.
+> https://www.kaggle.com/c/trackml-particle-identification/data
+> Download only the detectors and the train_sample zip. Exctract the zip files and it should be all set.
 The notebook, the detectors file and the train_sample folder should be in the same folder
 
 
